@@ -1,0 +1,2 @@
+{"user_id": 123, "filename": "report.pdf", "timestamp": "2026-03-10T11:55:27.195992Z", "level": "info", "event": "Custom logger initialized."}
+{"user_id": 123, "error_code": "File not found", "timestamp": "2026-03-10T11:55:27.196449Z", "level": "error", "event": "An error occurred while processing the file."}

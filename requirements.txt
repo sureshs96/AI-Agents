@@ -10,3 +10,4 @@ langgraph
 youtube-search-python
 youtube-search
 yfinance
+structlog
