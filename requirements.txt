@@ -5,6 +5,8 @@ langchain_core
 langchain_community
 langchain_openai
 langchain_google_genai
+langchain_google_community
 langgraph
 youtube-search-python
 youtube-search
+yfinance
